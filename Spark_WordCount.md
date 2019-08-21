@@ -113,3 +113,46 @@ sc.close();
 
 ```
 
+
+
+
+
+## 3.실행결과
+
+
+
+```bash
+#
+(/festival/MyPage?action=revDelete&check=109&check=114&check=104&check=106&check=108&check=169,1)
+([22/Jul/2019:10:49:43,1)
+([23/Jul/2019:14:49:16,4)
+(/festival/notice/ncontent?nid=23,3)
+([11/Jul/2019:10:47:58,1)
+(/festival/detail?fid=24,1)
+([19/Jul/2019:12:43:11,5)
+(/festival/resources/images/23/2.jpg,1)
+([17/Jul/2019:09:24:50,1)
+([01/Aug/2019:15:58:49,1)
+(/festival/resources/images/75/4.jpg,2)
+([23/Jul/2019:11:09:49,1)
+(/festival/resources/images/76/4.jpg,4)
+(/festival/festivalmain?city=c1&district+=d1&month=m1&ftype+=f1,1)
+([22/Jul/2019:14:05:53,4)
+(/festival/changelatlng?lat=37.4893989&lng=126.9865735&fid=59,3)
+
+```
+
+이하 생략.. 
+
+
+
+## 4.결론.
+
+추후에
+
+1.이용자의 인기 검색 도시, 축제, 월 등의 데이터를 수집하고,
+
+2.이용자가 조회한 인기 있는 축제 사진 데이터들을 수집하고,
+
+3.공지 사항 및 MyPage에서 어느 기능을 이용했는지 수집 할 수 있을거라 예상함...
+
