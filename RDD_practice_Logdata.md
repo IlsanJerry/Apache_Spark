@@ -1,4 +1,4 @@
-# RDD개념을 활용한 WordCount
+# RDD개념을 활용한 상품 로그 데이터 분석
 
 1. Version1.0
 
@@ -136,6 +136,8 @@ scala> top5LogArray.foreach(println)
 (p001,84)
 (p009,80)
 (p008,80)
+(p007,71)
+(p002,66)
 
 -end-!!
 
