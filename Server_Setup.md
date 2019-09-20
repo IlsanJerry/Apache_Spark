@@ -2,6 +2,12 @@
 
 1.`putty`에`70.12.113.xxx`입력후  opanapi 를 open
 
+1-1.AWS 서버의IP주소  :13.125.xx.x
+
+ec2-13-125-37-0.ap-northeast-2.compute.amazonaws.com
+
+
+
 2.sampledata 폴더 생성
 
 3.윈도우에 있는 product_click.log파일을 Filezilla를 통해서 서버에 sampledata에
