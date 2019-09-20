@@ -4,7 +4,7 @@
 
 1-1.AWS 서버의IP주소  :13.125.xx.x
 
-ec2-13-125-37-0.ap-northeast-2.compute.amazonaws.com [현재 JDK 와 Spark가 설치가 되있음]
+ec2-13-125-37-0.ap-northeast-2.compute.amazonaws.com [현재 JDK 와 Spark가 설치가 되있음!!]
 
 2.sampledata 폴더 생성
 
